@@ -3,7 +3,7 @@ Access a [Local by Flywheel](https://local.getflywheel.com) installation from th
 
 ## Installation
 
-Download the file from the [github releases page](https://github.com/wttw/wowaddon/releases/latest), for your operating system, unzip it and put it somewhere on your path.
+Download the file from the [github releases page](https://github.com/wttw/lfw/releases/latest), for your operating system, unzip it and put it somewhere on your path.
 
 To install from source, with a recent go installation, run `go install -i github.com/wttw/lfw`.
 
